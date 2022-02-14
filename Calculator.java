@@ -1,4 +1,4 @@
-package knhel7.jd14.javacore14.task111;
+//package knhel7.jd14.javacore14.task111;
 
 import java.util.function.*;
 
